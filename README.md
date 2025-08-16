@@ -1,6 +1,6 @@
-# BloodBridge
+# Blood-Sync
 
-BloodBridge is a blood donation and receiver matching platform built using React + Vite.
+Blood-Sync is a blood donation and receiver matching platform built using React + Vite.
 
 ## About the Project
 This application helps donors and recipients connect efficiently, ensuring quick access to life-saving resources.
